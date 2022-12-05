@@ -40,6 +40,7 @@ se tudo estava correto o servidor vai rodar localmente na porta 3001
 # Rotas
 
 `/Get /users`
+`Auth bearer token`
 essa rota e necessario ter um superusuario criado no insomnia ou requisição comum pois voce precisa logar na interface para renderizar utilizando o token
 
 `/Patch /users/:id`
